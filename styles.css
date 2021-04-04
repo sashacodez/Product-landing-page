@@ -1,0 +1,102 @@
+.form-singin {
+  text-align: center;
+}
+
+.btn {
+  margin-top: 13px;
+}
+
+/* features*/
+.features-section {
+  max-height: 750px;
+  position: relative;
+  margin-top: 100px ;
+  margin-bottom: 50px;
+  padding: 80px 80px 50px 80px;
+  background-color: #ECECEC;
+}
+
+.features-1-3{
+margin-bottom: 60px;
+}
+
+.icon {
+  margin-right: 13px;
+}
+.features-1-3:hover {
+  color: #66FFFF;
+  font-size: 2rem;
+   transition: 1s ease-out;
+}
+
+.video {
+  margin-right: 200px;
+}
+
+.features-column {
+  margin: auto 0 auto auto;
+}
+
+
+/*Reviews*/
+.reviews {
+  max-width: 756px;
+  margin:120px auto 100px auto;
+
+}
+
+.cr-img {
+  border-radius: 5%;
+}
+
+
+
+/*Pricing*/
+.pricing {
+margin: 100px 100px;
+}
+
+/*Footer*/
+.social-icon {
+  margin: 20px 10px;
+}
+
+.social-icon:hover {
+  font-size: 2rem;
+  transition: 1s ease-out;
+  color: #3B5998;
+}
+
+
+@media(max-width: 768px) {
+  .video-div {
+    margin-left: 100px;
+  }
+}
+@media(max-width: 1050px) {
+  .video-div {
+    margin-left: 100px;
+  }
+}
+
+
+
+.comments {
+  font-weight:400;
+  color: #FFFFFF;
+  text-shadow: 0.07em 0 black,
+        0 0.07em black,
+        -0.07em 0 black,
+        0 -0.07em black; ;
+}
+
+
+.pcomments{
+  font-weight: 600;
+  font-style: italic;
+  color: #FFFFFF;
+  text-shadow: 0.07em 0 black,
+        0 0.07em black,
+        -0.07em 0 black,
+        0 -0.07em black;;
+}
